@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Leicestor's commonvvealth fully epitomized conceived, spoken, and published, with most earnest protestation of all dutifull good-will and affection towards this realme, for whose good onely it is made common to many : contracted in a most briefe, exact, and compendious way, with the full sense and whole meaning of the former booke, every fragment of sence being interposed : with a pleasant description of the first originall of the controversies betwixt the two houses of York, and Lancaster.</title>
+            <title>Leycesters commonwealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50031</idno>
+            <idno type="STC">Wing L969A</idno>
+            <idno type="STC">ESTC R11905</idno>
+            <idno type="EEBO-CITATION">12387939</idno>
+            <idno type="OCLC">ocm 12387939</idno>
+            <idno type="VID">60901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50031)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 766:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Leicestor's commonvvealth fully epitomized conceived, spoken, and published, with most earnest protestation of all dutifull good-will and affection towards this realme, for whose good onely it is made common to many : contracted in a most briefe, exact, and compendious way, with the full sense and whole meaning of the former booke, every fragment of sence being interposed : with a pleasant description of the first originall of the controversies betwixt the two houses of York, and Lancaster.</title>
+                  <title>Leycesters commonwealth.</title>
+                  <author>Parsons, Robert, 1546-1610.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errors in paging.</note>
+                  <note>Erroneously attributed to Robert Parsons. cf. DNB and Lowndes, W.T. The bibliographer's manual of English literature, new ed.</note>
+                  <note>"First printed abroad, under the title of 'A dialogue between a scholar, a gentleman, and a lawyer, ' &amp;c. From the colour of its leaves, it was called 'Father Parson's green-coat.' In 1585 it was translated into French, and also printed abroad with this title. 'La vie abominable, ruses, trahisons, meurtres, impostures, &amp;c."--The Harleian miscellany. London, 1808-13. vol. IV. p. 576.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leicester, Robert Dudley, --  Earl of, 1532?-1588.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60901:1"/>
+            <p>LEICESTORS Common-Wealth fully Epitomiz'd.</p>
+            <p>Conceived, ſpoken, and published with moſt earneſt proteſtation of all dutifull good will, and affection towards this Realme, for whoſe good onely<g ref="char:punc">▪</g> It is made common to many.</p>
+            <p>Contracted in a moſt breife, exact, and compendious way with the full Senſe and whole meaning of the former Booke, every fragment of ſence being interpoſed.</p>
+            <p>With a pleaſant diſcription of the firſt Originall of the controverſies betwixt the two Houſes of <hi>Yorke,</hi> and <hi>Lancaſter.</hi>
+            </p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:60901:2"/>
+            <head>Leyceſters Common-wealth Epitomiz'd.</head>
+            <stage>
+               <seg rend="decorInit">A</seg> Scholler, Lawyer, and Gentleman beeing con<g ref="char:EOLhyphen"/>veened together in Chriſtmas time, retired themſelves after dinner into a large Gallery, for their recreation: The Lawyer having in his hand a little Booke, then newly put forth, containing. <hi>A defence of the publique Iustice done of late in</hi> Eng<g ref="char:EOLhyphen"/>land <hi>upon divers. Priests, and other Papiſts for Treaſon:</hi> which Booke the Lawyer having read before, the Gentleman asked his Iudgement thereon.</stage>
+            <sp>
+               <speaker>Lawyer.</speaker>
+               <p>It is not evill penned in my opinion, to ſhew the guiltineſſe of ſome perſons therein named in particular<hi>:</hi> yet not ſo farre forth (I beleeve) &amp; in ſo deepee a degree of Trea<g ref="char:EOLhyphen"/>ſon, as in this Booke generally is inforced without indiffe<g ref="char:EOLhyphen"/>rency.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>For my part I proteſt, that I beare the honeſt Papiſt (if there be any) no malice for his deceived conſience; but ſince you grant the Papiſt both in generall abroad, &amp; at home<hi>:</hi> and in particular ſuch as are condemned, executed, and named in this booke to be guilty<hi>:</hi> how can you inſinuate (as you doe) that there is more inforced upon them by this Booke, then there is juſt cauſe ſo to doe?</p>
+            </sp>
+            <sp>
+               <speaker>Lawyer.</speaker>
+               <p>Good Sir, I ſtand not heere to examine the doings of ſuperiours, or to defend the guilty, but wiſh hartily rather their puniſhment that deſerves the ſame. But not onely thoſe, whom you call Buſie Papiſts in <hi>England,</hi> but alſo thoſe, whom we call hot Puritanes among you, may be aſwell called Tray<g ref="char:EOLhyphen"/>tors in my opinion: For that every one of theſe in deede doth
+<pb n="3" facs="tcp:60901:2"/>
+labour indirectly (if not more) againſt the State, ſeeing each one endeavoreth to encreaſe his part or faction, that deſireth a Governour of his owne Religion. And in this caſe are the Proteſtants in <hi>France,</hi> and <hi>Flanders</hi> under Catholique Princes: the <hi>Calvinists</hi> under the Duke of <hi>Saxony,</hi> the <hi>Lutherans</hi> under <hi>Caſinere,</hi> the <hi>Graecians,</hi> and other Chriſtians under the Empe<g ref="char:EOLhyphen"/>rour of <hi>Conſtantinople,</hi> under the <hi>Sophy,</hi> and <hi>Chame</hi> of <hi>Tartary,</hi> and under other Princes, that are not with them in Religion. All which ſubiects doe wiſh (no doubt) in their hearts, that they had a Prince and State of their owne Religion, in ſtead of that which now governeth them; and conſequently in this ſence, they may be all called Traytors: And ſo to apply this to my purpoſe; I thinke Sir, in good ſooth, that in the firſt kinde of Treaſon, as well the zealous Papiſt, as alſo the Puritan in <hi>England,</hi> may well be called, and proved Traytors.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>I grant your diſtinction of Treaſons to bee true<hi>:</hi> but your application thereof to the Papiſts and Puritans (as you call them) be rather divers degrees, then divers kindes. And the one is but a ſtep to the other, not differing in nature, but in time, abilitie, or opportunitie. For if the <hi>Graecians</hi> under the <hi>Turke,</hi> and other Chriſtians under other Princes of a different Religion, as alſo the Papiſts, and Puritans in <hi>England,</hi> have ſuch alienation of minde from the preſent regiment and doe covet ſo much a Governour and State of their owne Religion: then no doubt but they are alſo reſolved to employ their for<g ref="char:EOLhyphen"/>ces, for accompliſhing, and bringing to paſſe their deſires, if they had opportunity<hi>:</hi> and ſo being now in the firſt degree or kind of Treaſon, doe want but occaſion or ability to breake into the ſecond.</p>
+            </sp>
+            <sp>
+               <speaker>Lawyer.</speaker>
+               <p>True ſir, if there be no other cauſe or circumſtance that may withhold them.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>And what cauſe or circumſtance may ſtay them, when they ſhall have abilitie, or opportunity to doe a thing which they ſo much deſire?</p>
+            </sp>
+            <sp>
+               <speaker>Lawyer.</speaker>
+               <p>Divers cauſes, but eſpecially the feare of ſervitude
+<pb n="4" facs="tcp:60901:3"/>
+under forraigne Nations may reſtraine them from ſuch at<g ref="char:EOLhyphen"/>tempts: As in <hi>Germany</hi> both Catholiques and Proteſtants joy<g ref="char:EOLhyphen"/>ned together againſt ſtrangers, that offered danger to their li<g ref="char:EOLhyphen"/>berties. So that by this example you ſee that feare of externall ſubjection may ſtay men in all ſtates, &amp; conſequently both Pa<g ref="char:EOLhyphen"/>piſts &amp; Puritans in the ſtate of <hi>England</hi> from paſſing to the ſe<g ref="char:EOLhyphen"/>cond degree of Treaſon, albeit they were never ſo deepe in the firſt, &amp; had both ability, time, will &amp; opportunity for the other.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>It ſeemes to me moſt cleare, and now I underſtand what the Lawyer meant before, when he affirmed, that albeit the moſt part of Papiſts in generall might bee ſaid to deale a<g ref="char:EOLhyphen"/>gainſt <hi>England</hi> in regard of their religion, and ſo incurre ſome kinde of Treaſon, yet not ſo far forth as in this book is inforced; though for my part I doe not ſee that the booke inforceth all Papiſts in generall to be properly traytors, but ſuch as only in particular are therin named, or that are by law attained or con<g ref="char:EOLhyphen"/>demned, or executed, &amp; what wil you ſay to thoſe in particular?</p>
+            </sp>
+            <sp>
+               <speaker>Lawyer.</speaker>
+               <p>That ſome here named in this booke are openly knowne to have beene in the ſecond degree of Treaſon: as <hi>Weſtmerland, Norton, Sanders, &amp;c.</hi> But divers others, (namely the Prieſts and Seminaries) I conceive, that to the wiſe of our State, who had the doing of this buſineſſe, the firſt degree of Treaſon was ſufficient to diſpatch them, eſpecially in ſuch ſuſ<g ref="char:EOLhyphen"/>pitious times as theſe are: to the end that being hanged for the firſt, they ſhould never be in danger to fall into the ſecond: nor yet to draw other men to the ſame; which perhaps was moſt of all miſdoubted.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>It appertaineth not to us to Iudge, what the State pleaſeth to doe<hi>:</hi> for it muſt as well prevent inconveniences, as remedie the ſame, when they are happened. But (my good friends) I muſt tell you plaine, that I could wiſh with all my heart, that either theſe differences were not amongſt us at all, or elſe that they were ſo temperately on all parts perſued<hi>:</hi> as the common State of our Country, the bleſſed raigne of her Maieſtie, and the common cauſe of true Religion were not endangered thereby.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:60901:3"/>
+               <speaker>Lawyer.</speaker>
+               <p>But many participate the <hi>Black-Moores</hi> humour, that dwell in <hi>Guinea,</hi> whoſe exerciſe at home is (as ſome write) the one to hunt, catch, and ſell the other, and alwaies the ſtronger to make money of the weaker. But now if in <hi>England</hi> wee ſhould live in peace and unity, as they doe in <hi>Germany,</hi> and one ſhould not prey upon the other: then ſhould the great Fau<g ref="char:EOLhyphen"/>cons for the field (I meane the favorites of the time) faile on their great prey.</p>
+            </sp>
+            <sp>
+               <speaker>Gentle.</speaker>
+               <p>Truely ſir, I thinke you rove neerer the marke then you weeen: for if I be not deceived, the very ground of theſe broyles, are but a very prey, in the greedy immaginations of him, who tyrannizeth the ſtate: and being himſelfe of no Re<g ref="char:EOLhyphen"/>ligion, feedeth not yet upon our differences in Religion, to the fatting of himſelfe, and ruine of the Realme: for whereas by the common diſtinction there are three notable differences of Religion in this Land: The two extreame, wherof are the Papiſt, and Puritan: and the Religious Proteſtant obtaining the meane: This fellow being of neither, maketh his gaine of all, and as he ſeeketh a kingdome by the one extreame, and ſpoyle by the other: and ſo he uſeth the authority of the third, to compaſſe the firſt two, and to countermine of each one, to the overthrow of all there.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>In good ſooth, I ſee now ſir where you are: you are fallen into the common place of all our ordinary talke and conference in the univerſity, for I know you meane my Lord of <hi>Leicester,</hi> who is the ſubiect of all pleaſant diſcourſe at this day throughout this Realme.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Not ſo pleaſant, as pittifull, if all matters and circum<g ref="char:EOLhyphen"/>ſtances were well conſidered, except any man take pleaſure to ieſt at our owne miſeries<hi>:</hi> which are like to bee the greater by his iniquitie (if God avert it not) then by all the wickedneſſe of <hi>England</hi> beſides: He being the man by all probabilitie, that is like to be the bane, and fatall deſtinie of our ſtate, with the evertion of true Religion, whereof by indirect meanes, hee is the greateſt enemie that the land doth nouriſh: A man of ſo
+<pb n="6" facs="tcp:60901:4"/>
+baſe a ſpirit as is knowne to be, of ſo extreame ambition, pride, falſe<g ref="char:EOLhyphen"/>hood and treachery: ſo borne, ſo bread up, no nuſled in Treaſon from his infancy deſcended of a Tribe of Traytors, and fleſhed in conſpiracy againſt the Royall blood of King <hi>Henries</hi> children in his tender yeares, and exerciſed in drifts ever ſince againſt the ſame, by the blood and ruine of divers others: and finally a man ſo well knowne to beare ſecret malice againſt her Majeſtie for cauſes irre<g ref="char:EOLhyphen"/>concileable. Wherefore I doe aſſure my ſelfe it would bee moſt pleaſant to the Realme, and profitable to her Majeſtie, to wit, that this mans Actions might be called publiquely to tryall, and liberty given to good ſubiects, to ſay what they know againſt the ſame: as it was permitted in the firſt yeare of King <hi>Henry</hi> the 8. againſt his Grandfather, &amp; in the firſt of Queene <hi>Mary</hi> againſt his Father<hi>:</hi> And then I would not doubt, but if theſe two his Anceſtors were found worthy to looſe their heads for Treaſon: this man would not bee found unworthy to make the third in kindred, whoſe treacheries doe farre ſurpaſſe them both.</p>
+            </sp>
+            <sp>
+               <speaker>Law.</speaker>
+               <p>My Maſters, have you not heard of the Proviſo made in the laſt Parliament for puniſhment of all thoſe, who ſpeake ſo broad of ſuch men as my Lord of <hi>Leiceſter</hi> is?</p>
+            </sp>
+            <sp>
+               <speaker>Gen.</speaker>
+               <p>Yes, I have heard that my L. of <hi>Leiceſter</hi> being aſhamed of his Actions, deſired a reſtraint, that he might lie the more ſecurely in harbour from the tempeſt of mens tongues, which tatled buſily at that time, of divers of his Lordſhips deeds, which he would not have divulged. As of his preparation to Rebellion upon <hi>Mounſieurs</hi> com<g ref="char:EOLhyphen"/>miſſion into the Land: of his diſgrace &amp; checks received at Court: of the freſh death of the Noble Earle of <hi>Eſſex,</hi> &amp; of his haſty ſnatch<g ref="char:EOLhyphen"/>ing up of his widdow, whom he ſent up and downe the Countrey by privie waies, thereby to avoid the fight and knowledge of the Queenes Maieſtie. And albeit he had not onely ſatisfied his owne luſt on her, but alſo married, and remarried her contentation of her friends: yet denied he the ſame by ſolemne oathes to her Maieſtie, and received the Communion thereupon (ſo good a conſcience he hath) No marvile therefore if hee not deſiring to have theſe and other Actions knowne publique, was ſo diligent a procurer of that Law for ſilence.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:60901:4"/>
+               <speaker>Schol.</speaker>
+               <p>It is very probable that his Lord-ſhip was in great diſtreſſe about that time, when <hi>Monſieurs</hi> matters were in hand, whereof he deſired leſſe ſpeech among the people. But when my Lord of <hi>War<g ref="char:EOLhyphen"/>wick</hi> ſaid openly at his Table in <hi>Greenewich,</hi> that the marriage was not to be ſuffered, hee cauſed an inſurrection againſt the Queenes owne Maieſtie. And when her Royall Maieſtie ſhould have married to the Brother and Heire apparant of <hi>France,</hi> being judged by the beſt, wiſeſt, and faithfulleſt Proteſtants of the Realme to bee both convenient, profitable and honorable: This Tyrant for his owne private lucre endeavored to allieanate for ever, and make this great Prince our mortall enemie, who ſought the love of her Maieſtie with ſo much honour and confidence, as never Prince did.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>For the preſent I muſt advertiſe you in this caſe, that you may not take hold ſo exactly of all my Lords doings, for they are too many to bee recited: eſpeciall in womens affaires, in touch<g ref="char:EOLhyphen"/>ing their marriages, and their husbands. For firſt his Lordſhip hath a ſpeciall fortune, that when he deſireth any womans favour, then what perſon ſoever ſtandeth in his way, hath the luck to die quickly for the finiſhing of his deſire. As for example, when his Lordſhip was in full hope to marry her Maieſtie, and his own wife ſtood in his way, as he ſuppoſed, ſhe was ſlaine to make way for him.</p>
+               <p>Long after this, he fell in love with the Lady <hi>Sheffeild,</hi> and then had he alſo the ſame fortune to have her husband to die quickly by an artificiall Catarre, that ſtopped his breath. The like good chance had he in the death of my Lord of <hi>Eſſex,</hi> and that at a time moſt fortunate for his purpoſe.</p>
+               <p>He poyſoned alſo one Miſtris <hi>Ales Draykot,</hi> a goodly Gentlewo<g ref="char:EOLhyphen"/>man, whom he affected much himſelfe, and hearing that ſhee was dead lamented her caſe greatly, and ſaid in the preſence of his ſer<g ref="char:EOLhyphen"/>vants, Ah, poore <hi>Ales,</hi> the cup was not prepared for thee, albeit it was thy hard deſtiny to taſt of it.</p>
+               <p>Alſo Sir <hi>Nicholas Throgmorton,</hi> whom my Lord of <hi>Leiceſter</hi> invited to a ſupper at his houſe in <hi>London,</hi> was their poyſoned with a Salat by an incurable vomit.</p>
+               <p>The late Lady <hi>Lenox</hi> alſo (who came of the Royall blood by <hi>Scot<g ref="char:EOLhyphen"/>land)</hi>
+                  <pb n="8" facs="tcp:60901:5"/>
+being ſick, <hi>Leyceſter</hi> (who never could affect her) tooke the paines to viſite her with extraordinary kindneſſe, but after ſome private diſcourſe with her, at his departure ſhe fell into an extraor<g ref="char:EOLhyphen"/>dinary Fluxe; which many did avouch to come by his meanes.</p>
+               <p>But this is not all touching his Marriage &amp; contracts with Wo<g ref="char:EOLhyphen"/>men, changing wives and Minions, by killing the one, denying the other, uſing the third for a time, and fawning on the forth. Where<g ref="char:EOLhyphen"/>fore he had termes and pretences of contracts, precontracts, poſt<g ref="char:EOLhyphen"/>contracts, protracts and retracts: as for example, after hee had kil<g ref="char:EOLhyphen"/>led his wife, and ſo broken that contract, then forſooth would hee needes make himſelfe Husband to the Queenes Majeſtie, and ſo defeate all other Princes by vertue of his Precontract. And after this his luſt compelling him to another place, hee would needes make a poſt contract with the Lady <hi>Sheffeild.</hi> But yet after his con<g ref="char:EOLhyphen"/>cupiſcence changing againe, he reſolved to make a Retract of this protract, and to make a certaine new protract (which is a continu<g ref="char:EOLhyphen"/>ation for uſing her for a time) with the widdow of <hi>Eſſex.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>I have read much in my time of the carnality and licenti<g ref="char:EOLhyphen"/>ouſneſſe of many outragious perſons in this kinde, but I never read nor heard the like of him in my life, whoſe concupiſence and vio<g ref="char:EOLhyphen"/>lence runne ioyntly together; neither holdeth hee any rule in his luſt, beſides onely the motion and ſuggeſtion of his owne ſenſuali<g ref="char:EOLhyphen"/>ty: for there are not (by report) two Noble Gentlemen about her Maieſtie (I ſpeake upon ſome accompt of them that know much) whom he hath not ſollicited by potent waies. And ſeeking paſture among the waiting Gentlewomen of her Maieſties Cham<g ref="char:EOLhyphen"/>ber, he hath offered three hundred pounds for a Night, and if that would not make up the ſumme, he would otherwiſe: having repor<g ref="char:EOLhyphen"/>ted himſelfe (ſo little ſhame he hath) that he offered to another of higher place a hundred pound lands a yeare, with many more Iew<g ref="char:EOLhyphen"/>els to doe the Act.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Nay he is ſo Libinous, that he hath given to procure love in others, by coniuring, ſorcery and other ſuch meanes. But I am aſha<g ref="char:EOLhyphen"/>med to make any more mention of his filthineſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>To draw you from the further ſtirring of this unſavory
+<pb n="9" facs="tcp:60901:5"/>
+puddle, and foule dunghill, I will recompt a pritty ſtory concer<g ref="char:EOLhyphen"/>ning his daughter borne of the Lady <hi>Sheffeild</hi> in <hi>Dudley Caſtle,</hi> I was acquainted three moneths paſt with a certaine Miniſter (that now is dead) living at <hi>Dudley Caſtle,</hi> for complement of ſome ſacred Cere<g ref="char:EOLhyphen"/>monies at the birth of my Lord of <hi>Leicesters</hi> daughter in that place: and the matter was ſo ordered by the wily wit of him that had ſow<g ref="char:EOLhyphen"/>ed the ſeede, that for the better covering of the Harveſt, and ſe<g ref="char:EOLhyphen"/>cret delivery of the Lady <hi>Sheffeild,</hi> the good wife of the Caſtle alſo (whereby <hi>Leyceſters</hi> appointed Goſſips might without ſuſpition have acceſſe to the place) ſhould faine her ſelfe to bee with child, and after long and ſore travel (God wot) to be delivered of a cuſhion (as ſhee was indeede) and a little after a faire Coffin was buried with a bundle of clouts in ſhew of a child: and the miniſter cauſed to uſe all accuſtomed prayers and ceremonies for the ſolemnizing thereof<hi>:</hi> For which thing afterward the Miniſter before his death and great greife and remorſe of conſcience, with no ſmall deteſta<g ref="char:EOLhyphen"/>tion of the moſt irreligious deviſe of my Lord of <hi>Leiceſter</hi> in ſuch a caſe.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>This was a moſt Atheiſticall deſignement, and with all ſo unworthy, that it did alone, deſerve a correſpondent puniſhment &amp; no doubt but that God (who hath an impartiall eye in veiwing ſuch voluntary iniquities) will on day render unto him, according to his demerits; to whoſe ſupreame Iuſtice I leave him: yet (Gentlemen if you pleaſe) I will relate moſt apparently unto you his intended murther againſt the Earle of <hi>Ormand: Leyceſter</hi> did offer five hundred pounds to have him privately murthered: but when that deviſe tooke no effect, hee appointed the field with him, but ſecretly ſuborning his ſervant <hi>William Killegre</hi> to lie in the way where <hi>Ormand</hi> ſhould paſſe, and ſo maſſacre him with a Cal<g ref="char:EOLhyphen"/>liver before he came to the place appointed. Which matter though it tooke no effect (for that the matter was taken up, before the day of meeting) yet was <hi>Killegre</hi> placed afterwards in her Majeſties privie Chamber by <hi>Leiceſter</hi> for ſhewing his ready mind, to doe for his Maſter ſo faithfull a ſervice.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:60901:6"/>
+               <speaker>Schol.</speaker>
+               <p>So faithfull a ſervice indeed? in my opinion, it was but an unfit preferment, for ſo facinorous a fact. Yet I heare withall that he is a man of great impatience, fury, rage, and ire, and whatſoever thing it be that he conceives, either juſtly, or unjuſtly, he proſecu<g ref="char:EOLhyphen"/>teth the ſame, with ſuch implacable cruelty, that there is noe abid<g ref="char:EOLhyphen"/>ing his fury.</p>
+               <p>His Treacheries towards the Noble Earle of <hi>Suſſex,</hi> in their many breachies is notorious to all <hi>England,</hi> As alſo the bloudy practiſes gainſt divers others.</p>
+               <p>But among many, none were more odious, and miſliked of all men<hi>:</hi> then thoſe againſt <hi>Monſieur Simiers,</hi> a ſtranger, and Ambaſſa<g ref="char:EOLhyphen"/>dour: whom firſt he practiſed to have poiſoned, but when that de<g ref="char:EOLhyphen"/>viſe took no place, then he would have ſlaine him at the <hi>Black-friers,</hi> at <hi>Green-wich</hi> as he went forth at the garden gate: but miſſing of that purpoſe too, he dealt with certaine Fluſhiners, and other Pi<g ref="char:EOLhyphen"/>rates, to ſincke him at Sea, with the Engliſh Gentle-men his favou<g ref="char:EOLhyphen"/>rers, that accompanied him at his returne into <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lawyer.</speaker>
+               <p>Now verily (Sir) you paint unto me a ſtrange patterne of a Perfect potentate in the Court: for the common ſpeech of ma<g ref="char:EOLhyphen"/>ny wanteth not reaſon I perceive, which call him the heart, and life of the Court.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>They which call him the heart, upon a litle occaſion more would call him the head; and then I marveile, what would be left for her Majeſty, when they take from her both life, heart, and head<g ref="char:EOLhyphen"/>ſhip in her owne Realme.</p>
+            </sp>
+            <sp>
+               <speaker>Lawyer.</speaker>
+               <p>Yet durſt no Subject preſume to contradict his Helliſh opinions, but rather gave their aſſertion unto, for feare of the dam<g ref="char:EOLhyphen"/>mage of their lives.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>But he hath munition, to what intent I know not, for in <hi>Killingworth</hi> Caſtle, he hath ready armour to furniſh ten thouſand Souldiers, of all things neceſſary, both for horſe and man: beſides the great abundance of ready coine there laid up ſufficient, for any great exploit to be done within the Realme.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>He hath many lands, poſſeſſions, Seigniories, and rich offices of his owne: favour and authority with his Prince: the part
+<pb n="3" facs="tcp:60901:6"/>
+and portion in all ſuites; that paſſe by grace, or are ended by law: he doth chop, and change what landes he liſteth with her Majeſty: poſſeſſeth many licences to himſelfe, as of Wine, Oyles, Currants, Cloath, Velvets with his new office of alienation, which might in<g ref="char:EOLhyphen"/>rich Townes, Corporations, Countries, and Common-wealths; He diſpoſeth at his will Eccleſiaſticall livings of the Realme, in ma<g ref="char:EOLhyphen"/>king Biſhops &amp;c. of whom he pleaſeth: he ſweepeth away the glebe from many Benefices throughout this land<hi>:</hi> he ſcoureth the Vni<g ref="char:EOLhyphen"/>verſity, and Colledges, where he is Chancellour, and ſelleth both head-ſhips, and Scholler-places, and all other offices, and dignities, that by art and violence may yeeld money. He driveth the Parties out of their poſſeſſions, and maketh title to what land he pleaſeth; He taketh in whole Forreſts, Commons, Woodes and paſtures to himſelfe; theſe, and in all theſe he doth inſult, notwithſtanding his former impiety.</p>
+               <p>He releaſed <hi>Callis</hi> to the <hi>French</hi> moſt Trayteriouſly, as his Father before him ſould <hi>Bulloigne</hi> to the <hi>French,</hi> by like Treacherie.</p>
+               <p>What ſhould I ſpeake of his other actions, whereof there would be no end? As of his dealing with <hi>Master Robinſon</hi> of <hi>Stafford-ſhire,</hi> with falſe arraignement, with Maſter <hi>Richard Lee,</hi> for his Manor of <hi>Hockenorton,</hi> with Maſter <hi>Ludwicke Grivell,</hi> by ſeeking to bereave him of all his living at once, if 'the drift had taken place; with <hi>George Witney,</hi> in the behalf of Sir <hi>Henry Leigh,</hi> for enforcing him to forgoe the Controller-ſhip of <hi>Woodſtocke,</hi> which he holded by pattent from King <hi>H.</hi> the 7. With my Lord <hi>Barkeley,</hi> whom he inforced to yeeld up his lands to his brother <hi>Warwicke,</hi> which his Anceſters had held quietly before 200 years. What ſhall I ſpeak of his intolerable Ty<g ref="char:EOLhyphen"/>ranny upon Sir <hi>Iohn Throgmarton,</hi> whom he brought to his grave, by perpetuall vexations<hi>:</hi> and upon all the line of King <hi>Henry</hi> againſt this mans Father, in King <hi>Edward</hi> and Queene Maries dayes? upon divers, of the <hi>Lanes,</hi> for one mans ſake of that name before menti<g ref="char:EOLhyphen"/>oned, that offered to take <hi>Killingworth</hi> Caſtle? Vpon ſome of the <hi>Giffords,</hi> &amp; others for <hi>Throgmartons</hi> ſake? in his endleſſe perſecuting Sir <hi>Drew Drewry,</hi> and many other Courtiers both men, &amp; women; But eſpecially <hi>Leyceſter</hi> was ſuppoſed to uſe this practiſe, for bring<g ref="char:EOLhyphen"/>ing
+<pb n="12" facs="tcp:60901:7"/>
+the Scepter finally to his owne head<hi>:</hi> and that he would not onely imploy himſelfe to defeate <hi>Scotland,</hi> and <hi>Arbeda</hi> to defeate <hi>Huntington:</hi> but alſo would uſe the marriage of the Queene impri<g ref="char:EOLhyphen"/>ſoned, to defeate them both if he could. Which marriage he being fruſtrated of, was not aſhamed to threaten a treacherous vindica<g ref="char:EOLhyphen"/>tion againſt her Majeſties Royall Perſon. But I hope her Majeſty will ſet out a faire Proclamation, with a bundle of Halters for all ſuch Traitours.</p>
+            </sp>
+            <sp>
+               <speaker>Lawy.</speaker>
+               <p>I applaud your well wiſhings to the State: yet I doe ob<g ref="char:EOLhyphen"/>ſerve much by reading over our Countrys affaires, and among o<g ref="char:EOLhyphen"/>ther things, I doe abhorre the memory of that time, and doe dread all occaſion, that may leade us to the like in time to come<hi>:</hi> ſeeing that in my judgement, neither the civill warres of <hi>Marius</hi> and <hi>Silla,</hi> or of <hi>Pompey</hi> and <hi>Caeſar</hi> among the <hi>Romans,</hi> nor yet the <hi>Guelphians</hi> &amp; <hi>Gibilines</hi> among the <hi>Italians,</hi> did ever worke ſo much woe; as this did to our poore Country: wherein by the contention of <hi>Yorke</hi> and <hi>Lancaſter</hi> were fought fifteene or ſixteene pitched fields, in leſſe then an hundred yeares. That is, from the 11. or 12. yeare of King <hi>Richard</hi> the ſecond his raigne, unto the 13. yeare of King <hi>Henry</hi> the ſeventh. At what time by cutting of the chiefe titler of <hi>Huntingtons</hi> houſe, to wit, young <hi>Edward Plantaginet</hi> Earle of Warwick, ſonne and heire to <hi>George,</hi> Duke of <hi>Clarence:</hi> the contention was moſt hap<g ref="char:EOLhyphen"/>pily quenched and ended, wherein ſo many fields were fought be<g ref="char:EOLhyphen"/>tweene Brethren and Inhabitants of our owne Nation. And there<g ref="char:EOLhyphen"/>in about the ſame quarrell were ſlaine, murthered, and made away about nine or tenne Kings, and Kings Sonnes, beſides above forty Earles, Marqueſſes and Dukes of name; But many more Lords, Knights, great Gentlemen and Captaines, and of the com<g ref="char:EOLhyphen"/>mon people without number, and by particular conjecture very neere too hundred thouſand. For that in one Battell fought by King <hi>Edward</hi> the fourth, there are recorded to be ſlaine on both parts, five and thirty thouſand 700. and a 11. perſons, beſides other wounded perſons, to be put to death afterward at the pleaſure of the Conquerer: at divers battles after, 10000. ſlaine at a battle. As in thoſe of <hi>Barnet</hi> and <hi>Turkesbury</hi> fought in one yeare.</p>
+            </sp>
+            <sp>
+               <pb n="31" facs="tcp:60901:7"/>
+               <speaker>Schol</speaker>
+               <p>I pray Sir open unto me the ground of theſe controverſies betweene <hi>Yorke</hi> and <hi>Lancaster,</hi> I have heard a large relation thereof, but no originall.</p>
+            </sp>
+            <sp>
+               <speaker>Lawy.</speaker>
+               <p>The controverſie betweene the Houſes of <hi>Yorke</hi> and <hi>Lan<g ref="char:EOLhyphen"/>caster</hi> tooke his actuall beginning in the iſſue of King <hi>Edward</hi> 3. and <hi>Edmond</hi> Earle of <hi>Lancaſter,</hi> whoſe inheritance fell upon a Daughter named <hi>Blanch,</hi> who was married to the 4. ſonne of King <hi>Edward</hi> the third named Iohn of <hi>Gaunt,</hi> borne in the city of <hi>Gaunt,</hi> in Flanders, and ſo by his wife became Duke of <hi>Lancaster,</hi> and heire of that houſe. And for that his ſonne <hi>Henry</hi> of <hi>Bolingbrooke,</hi> pretended a<g ref="char:EOLhyphen"/>mong other thinges that <hi>Edmond Crookebacke</hi> was the elder Sonne of King <hi>Henry</hi> the third, and injuſtly put by the inheritance of the Crowne, for that he was crook-backt and deformed<hi>:</hi> Hee tooke by force the Kingdome from <hi>Richard</hi> the ſecond, Nephew to King <hi>Edward</hi> the third by his firſt ſonne, and placed the ſame in the houſe of <hi>Lancaſter,</hi> where it remained for three whole deſcents, untill af<g ref="char:EOLhyphen"/>terwards <hi>Edward</hi> Duke of <hi>York</hi> deſcended of <hi>Iohn</hi> of <hi>Gaunts</hi> yonger Brother, making claime to the Crown by title of his Gradmother, that was heire to <hi>Lionell</hi> Duke of <hi>Clarence, Iohn</hi> of <hi>Gaunts</hi> Elder Bro<g ref="char:EOLhyphen"/>ther, tooke the ſame from <hi>Henry</hi> the ſixt by force, out of the Houſe of <hi>Lancaſter,</hi> and brought it backe againe to the Houſe of <hi>Yorke.</hi> This therefore was the originall of all thoſe diſcords betweene them.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>But let us not digreſſe from our former diſcourſe concer<g ref="char:EOLhyphen"/>ning <hi>Leyceſters</hi> treacherous actions. I have a friend yet living that was toward the old Earle of <hi>Arundell,</hi> in good credit, and by that meanes had occaſion to deale with the late Duke of <hi>Norfolke</hi> in his chiefeſt affaires before his troubles: who did often report ſtrange things from the Dukes owne mouth, of my Lord of <hi>Leyceſters</hi> moſt treacherous dealing towards him, for gaining of his blood, as after appeared true. This <hi>Leyceſter</hi> have alſo deceived her Majeſtie di<g ref="char:EOLhyphen"/>verſe times in forging of Letters as if they came from ſome Prince, when they were his owne forgerie: Hee had likewiſe a helliſh de<g ref="char:EOLhyphen"/>viſe to entrap his well deſerving Friend Sir <hi>Chrystopher Hatton</hi> in matter of <hi>Hall</hi> his Prieſt, whom hee would have had Sir <hi>Chryſtopher</hi>
+                  <pb n="6" facs="tcp:60901:8"/>
+to hide, and ſend away; being touched and detected in the eaſe of <hi>Ardent,</hi> thereby to have drawne in Sir <hi>Chryſtopher</hi> himſelfe, &amp; made him acceſſary to this Plot. What meaneth all theſe pernitious late dealings againſt the Earle of <hi>Shrewsbury,</hi> a man of the moſt ancient and worthieſt Nobility of our Realme. It is onely <hi>Leyceſters</hi> ambiti<g ref="char:EOLhyphen"/>ous minde, that cauſeth all this.</p>
+               <p>But it is very ſtrange to ſee, what a contemner of the Prerogatives of <hi>England</hi> he is, and how little account he maketh of all the antient Nobility of our Realme, how he contemneth, derideth, and deba<g ref="char:EOLhyphen"/>ſeth them: Which is the faſhion of all ſuch, as meane to uſurpe, to the end, that they may have none, who ſhall not acknowledge their firſt beginning and advancement from themſelves.</p>
+               <p>His baſe and abiect behaviour in his laſt diſgrace about his mar<g ref="char:EOLhyphen"/>rage, well declared what he would doe, in a matter of more impor<g ref="char:EOLhyphen"/>tance, by deceiving of Sir <hi>Chryſtopher Hatton:</hi> and by abuſing my Lord Treaſurer in a letter, for which Her Highneſſe did much re<g ref="char:EOLhyphen"/>buke him.</p>
+               <p>It was affirmed by many that all the broyles, troubles, dangers, and diſturbance in <hi>Scotland,</hi> did proceed from his complot, and conſpiracy.</p>
+               <p>His unworthy ſcandall which he caſt on the Earle of <hi>Shrewsbury</hi> was perfidious<hi>:</hi> Wherefore in regard of theſe innumerable Trea<g ref="char:EOLhyphen"/>cheries, for prevention of ſucceding calamities, to tell you plaine<g ref="char:EOLhyphen"/>ly my opinion, and therewith to draw to an end of this our confe<g ref="char:EOLhyphen"/>rence I ſhould thinke it the moſt neceſſary point of all, for her Majeſty to call his Lordſhip to an account among other, and to ſee what other men could ſay againſt him, at length, after ſo many yeares of his ſole accuſing, and purſuing of others. I know and am very well aſſured, that noe Act, which her Majeſty hath done, ſince the comming to the Crown, nor any that lightly her Majeſty may doe hereafter, can be of more utility to her ſelf, and to the Realme, or more gratefull unto her faithfull and zealous Subjects, then this Noble Act of Iuſtice will be, for triall of this mans deſerts towards his Countrey.</p>
+               <p>And ſo like wiſe now to ſpeake in our particular caſe, if there be
+<pb n="7" facs="tcp:60901:8"/>
+any grudge or griefe at this day, any miſlike, repining, complaint, or murmure againſt her Majeſties government, in the hearts of her true and faithfull Subjects, who with amendment of that, which is amiſſe, and not the overthrow of that which is well, I dare avouch upon conſcience, that either all; or the greateſt part thereof pro<g ref="char:EOLhyphen"/>ceedeth from this man. And if her highneſſe doe permit, and com<g ref="char:EOLhyphen"/>mand the laws dayly to paſſe upon theives, and Murderers without exceptition, and that for one fact onely, as by experience we ſee: how then can it be denyed in this man, who in both kindes have committed more enormous Acts, then may be well recounted.</p>
+               <p>As in the firſt of Theft, not onely by ſpoiling, and oppreſſing al<g ref="char:EOLhyphen"/>moſt infinite private men<hi>:</hi> but alſo whole Townes, Villages, Cor<g ref="char:EOLhyphen"/>porations, and Countries, by robbing the Realme with inordinate licences, by deceiving the Crowne, with racking, changing and im<g ref="char:EOLhyphen"/>bezeling the Lands, by abuſing his Prince, and Soveraigne, in ſel<g ref="char:EOLhyphen"/>ling his favour, both at home, &amp; abroad, with taking bribes for mat<g ref="char:EOLhyphen"/>ter of Iuſtice, grace, requeſt, ſupplication, or whatſoever ſuite elſe may depend upon the Court, or of the Princes authority. In which ſort of traffique, he committeth more theft oftentimes in one day: then all the way-keepers, Cut-purſes, Coſenners, Pirates, Burglares or other of that art in a whole yeare within this Realme.</p>
+               <p>As for the ſecond which is Murder, you have heard before ſome<g ref="char:EOLhyphen"/>what ſaid and proved: but yet nothing to that, which is thought to have beene in ſecret committed upon divers occaſiones, at divers times: in ſundry perſons of different calling in both ſexes, by moſt variable meanes of killing, poyſoning, charming, inchanting, con<g ref="char:EOLhyphen"/>juring, and the like: according to the diverſity of men, places, op<g ref="char:EOLhyphen"/>portunities, and inſtruments for the ſame. By all which meanes I thinke, he hath more blood lying upon his head at this Day, crying vengeance againſt him at Gods hands and her Majeſtie, then ever had private man in our Countrey before, were he never ſo wicked.</p>
+               <p>Whereto if we adde all his intollerable licentiouſneſſe in all fil<g ref="char:EOLhyphen"/>thy kinde, and manner of carnality, with all his ſorts of wives, friends and kinſwomen. If wee adde his iniuries, and diſhonours done
+<pb n="10" facs="tcp:60901:9"/>
+hereby <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> if we <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Crowne, his <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his rap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and moſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> poore, his <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Parliament, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with the Nobility and whole <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his open injuries, which he <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſters thereof, by turning all to his owne ganes (if I ſay) <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lay together all thoſe inormities before <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and thouſand <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more in particular, which might and would be gathered, if his day of tryall were but in hope to be granted: I doe not ſee in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and reaſon, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow her highneſſe ſitting in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and at the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Steine, as ſhee doth, could deny her Subiects this moſt lawfull re<g ref="char:EOLhyphen"/>queſt: conſidering that every one of theſe <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, requi<g ref="char:EOLhyphen"/>reth Iuſtice of his owne Nature: and much more altogether ought to obtaine the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, at the hand of any good and godly Majeſti<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in the world.</p>
+            </sp>
+            <stage>Before this diſcourſe was fully ended the night came on apace, and it being Supper <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Miſtris came to call them downe to Supper, wherefore there further ſpeech was intercepted.</stage>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
